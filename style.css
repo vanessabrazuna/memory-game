@@ -1,0 +1,17 @@
+.card {
+  margin: auto;
+  margin-top: -.5rem;
+  opacity: 1;
+}
+.card:hover {
+  cursor: pointer;
+  opacity: .9;
+}
+.alert {
+  margin: auto;
+  margin-top: 1rem;
+}
+strong {
+  margin-left: 67rem;
+  margin-bottom: 2.5rem;
+}
