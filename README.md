@@ -1,33 +1,37 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-deploy">Deploy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
-![Memory Game (Community)](https://imgur.com/FueJmWS)
+![Memory Game (Community)](https://imgur.com/FueJmWS.png)
 
-## 🚀 Tecnologias
+## 🚀  Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
-- CSS
-- JavaScript
+- HTML5
+- CSS3
+- JavaScript ES6
 
-Biblioteca
+
+### Biblioteca
 
 - [Bootstrap](https://getbootstrap.com/)
 
-Utilitário
+
+### Utilitário
 
 - [Iconfinder](https://www.iconfinder.com/)
 
-## 💻 Projeto
+<br>
+
+## 💻  Projeto
 
 Memory Game é um jogo da memória divertido com personagens de HQs. Criado por Erick Wendel referente ao curso de Fundamentos de JavaSript, modificado por Vanessa Brazuna.
 
-## 🌎 Deploy
+## 🌎  Deploy <a href="#" target="_blank">aqui!</a>
 
-<a href="#" target="_blank">aqui!</a>
+
