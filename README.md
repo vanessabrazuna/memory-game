@@ -32,4 +32,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Memory Game é um jogo da memória divertido com personagens de HQs. Criado por Erick Wendel referente ao curso de Fundamentos de JavaSript, modificado por Vanessa Brazuna.
 
-## 🌎  Deploy  <a href="https://vanessabrazuna.github.io/memory-game/" target="_blank">aqui!</a>
+## 🌎  Deploy 
+➡️ &nbsp;<a href="https://vanessabrazuna.github.io/memory-game/" target="_blank">aqui!</a>
