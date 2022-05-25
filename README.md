@@ -30,7 +30,7 @@ This project was developed with the following technologies:
 
 ## 💻  Project
 
-Memory Game is a fun memory game with comic book characters. Created by Erick Wendel regarding the JavaSript Fundamentals course, modified by Vanessa Brazuna.
+Memory Game is a fun memory game with comic book characters. Made with 💙 by Vanessa Brazuna!
 
 ## 🌎  Deploy 
-➡️ &nbsp;<a href="https://vanessabrazuna.github.io/memory-game/" target="_blank">aqui!</a>
+➡️ &nbsp;<a href="https://vanessabrazuna.github.io/memory-game/" target="_blank">here!</a>
