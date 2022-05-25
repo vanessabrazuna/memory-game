@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="#--tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#--projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#--technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#--project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#--deploy">Deploy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -8,29 +8,29 @@
 
 ![Memory Game (Community)](https://imgur.com/FueJmWS.png)
 
-## 🚀  Tecnologias
+## 🚀  Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - HTML5
 - CSS3
 - JavaScript ES6
 
 
-### Biblioteca
+### Library
 
 - [Bootstrap](https://getbootstrap.com/)
 
 
-### Utilitário
+### Utility
 
 - [Iconfinder](https://www.iconfinder.com/)
 
 <br>
 
-## 💻  Projeto
+## 💻  Project
 
-Memory Game é um jogo da memória divertido com personagens de HQs. Criado por Erick Wendel referente ao curso de Fundamentos de JavaSript, modificado por Vanessa Brazuna.
+Memory Game is a fun memory game with comic book characters. Created by Erick Wendel regarding the JavaSript Fundamentals course, modified by Vanessa Brazuna.
 
 ## 🌎  Deploy 
 ➡️ &nbsp;<a href="https://vanessabrazuna.github.io/memory-game/" target="_blank">aqui!</a>
